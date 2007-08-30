@@ -1,10 +1,9 @@
 Name: x11-tools
 Version: 1.0.0
-Release: %mkrel 3
+Release: %mkrel 4
 Summary: X11 tools
 Group: Development/X11
 License: GPL
-Packager: Gustavo Pichorim Boiko <boiko@mandriva.com>
 BuildArch: noarch
 
 # very useful tools
@@ -68,6 +67,3 @@ X11 tools
 
 %files
 %defattr(-,root,root)
-
-
-
