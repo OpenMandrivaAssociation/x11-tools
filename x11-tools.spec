@@ -3,6 +3,7 @@ Version: 1.0.0
 Release: %mkrel 4
 Summary: X11 tools
 Group: Development/X11
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 BuildArch: noarch
 
