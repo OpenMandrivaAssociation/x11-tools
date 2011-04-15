@@ -1,6 +1,6 @@
 Name: x11-tools
 Version: 1.0.0
-Release: %mkrel 9
+Release: %mkrel 10
 Summary: X11 tools
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
@@ -58,7 +58,7 @@ Requires: xwininfo
 
 # more tools
 Requires: proxymngr
-Requires: xrx
+#Requires: xrx
 
 # build tools
 Requires: makedepend
