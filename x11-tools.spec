@@ -1,6 +1,6 @@
 Name:		x11-tools
 Version:	1.0.0
-Release:	18
+Release:	19
 Summary:	X11 tools
 Group:		Development/X11
 License:	GPL
