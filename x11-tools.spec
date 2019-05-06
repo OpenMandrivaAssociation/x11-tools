@@ -1,6 +1,6 @@
 Name:		x11-tools
 Version:	1.0.0
-Release:	22
+Release:	23
 Summary:	X11 tools
 Group:		Development/X11
 License:	GPL
@@ -8,7 +8,6 @@ BuildArch:	noarch
 
 # very useful tools
 Requires:	iceauth
-Requires:	lbxproxy
 Requires:	luit
 Requires:	setxkbmap
 Requires:	smproxy
